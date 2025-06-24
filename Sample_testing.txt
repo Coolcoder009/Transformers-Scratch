@@ -1,0 +1,5 @@
+English: It's not your fault
+Tamil: உன் முழுவதும் இல்லை
+English: How are you brother?
+Tamil (Greedy): உங்கள் காதலிக்கு என்ன செய்து கொண்டார்கள்?
+Tamil (Beam Search): உங்களுக்கு நீங்கள் என்ன?
