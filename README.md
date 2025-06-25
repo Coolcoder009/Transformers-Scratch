@@ -34,10 +34,10 @@ This project demonstrates a **Transformer-based neural machine translation** mod
 |-------------------|--------------------------------|
 | Dataset           | 200,000 English–Tamil pairs    |
 | Epochs            | 20                             |
-| Batch Size        | 64                             |
+| Batch Size        | 32                             |
 | Optimizer         | Adam with warmup scheduler     |
 | Loss              | Cross-Entropy with masking     |
-| Beam Width        | 5                              |
+| Beam Width        | 3                              |
 
 ---
 
