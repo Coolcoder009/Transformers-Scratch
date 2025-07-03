@@ -56,8 +56,14 @@ This project demonstrates a **Transformer-based neural machine translation** mod
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/english-tamil-transformer.git
-cd english-tamil-transformer
+https://github.com/Coolcoder009/Transformers-Scratch.git
+cd Transformers-Scratch
+
+# Environment variable creation
+python -m venv venv
+
+# Activate 
+venv/scripts/activate
 
 # Train the model
 python train.py
